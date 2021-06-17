@@ -1,4 +1,4 @@
-# Budget Trackers
+# Budget Tracker
 
 A Budget Tracker application that allows the user to add expenses and deposits to their budget with or without a connection. 
 ## User Story
